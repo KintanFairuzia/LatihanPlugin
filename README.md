@@ -1,2 +1,1 @@
-# LatihanPlugin
-# LatihanPlugin
+# LatihanWeb
